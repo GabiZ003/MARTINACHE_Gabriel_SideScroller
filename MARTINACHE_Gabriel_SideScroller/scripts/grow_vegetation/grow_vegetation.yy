@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"grow_vegetation",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"grow_vegetation",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

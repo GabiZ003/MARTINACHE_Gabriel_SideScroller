@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"check_dep_flower",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"check_dep_flower",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

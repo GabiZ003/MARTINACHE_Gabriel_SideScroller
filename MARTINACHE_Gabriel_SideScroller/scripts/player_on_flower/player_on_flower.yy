@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"player_on_flower",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"player_on_flower",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

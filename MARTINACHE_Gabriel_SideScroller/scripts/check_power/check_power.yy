@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"check_power",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"check_power",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

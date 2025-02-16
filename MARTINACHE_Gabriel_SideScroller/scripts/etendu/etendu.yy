@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"etendu",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"etendu",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
