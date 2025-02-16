@@ -14,15 +14,17 @@ if(global.pv_joueur <= 0){	/// @DnDAction : YoYo Games.Instances.Set_Instance_
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 5E40038D
-	/// @DnDInput : 3
+	/// @DnDInput : 4
 	/// @DnDParent : 7EEE9638
 	/// @DnDArgument : "expr_2" "true"
 	/// @DnDArgument : "var" "hsp"
 	/// @DnDArgument : "var_1" "vsp"
 	/// @DnDArgument : "var_2" "global.fini"
+	/// @DnDArgument : "var_3" "walk_spd"
 	hsp = 0;
 	vsp = 0;
-	global.fini = true;}
+	global.fini = true;
+	walk_spd = 0;}
 
 /// @DnDAction : YoYo Games.Switch.Switch
 /// @DnDVersion : 1

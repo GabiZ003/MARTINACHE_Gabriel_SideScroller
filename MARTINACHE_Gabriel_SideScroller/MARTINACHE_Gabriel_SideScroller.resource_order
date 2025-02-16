@@ -107,6 +107,5 @@
     {"name":"S_tuto_fleurs","order":55,"path":"sprites/S_tuto_fleurs/S_tuto_fleurs.yy",},
     {"name":"S_tuto_pouvoir","order":54,"path":"sprites/S_tuto_pouvoir/S_tuto_pouvoir.yy",},
     {"name":"S_tuto_restart","order":73,"path":"sprites/S_tuto_restart/S_tuto_restart.yy",},
-    {"name":"Sprite5","order":16,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }

@@ -124,7 +124,6 @@
     {"id":{"name":"S_tuto_fleurs","path":"sprites/S_tuto_fleurs/S_tuto_fleurs.yy",},},
     {"id":{"name":"S_tuto_pouvoir","path":"sprites/S_tuto_pouvoir/S_tuto_pouvoir.yy",},},
     {"id":{"name":"S_tuto_restart","path":"sprites/S_tuto_restart/S_tuto_restart.yy",},},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
